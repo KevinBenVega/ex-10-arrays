@@ -1,3 +1,4 @@
+```pascal
 INICI
     DEFINIR array1 COM ARRAY DE 5 ENTERS
     DEFINIR array2 COM ARRAY DE 5 ENTERS
@@ -32,3 +33,4 @@ INICI
     ESCRIURE(array3[i])
     FIN PER
 FI
+```
